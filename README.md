@@ -29,7 +29,13 @@ Jumper Cables
 5V Power Supply  
 USB Cable (for Arduino) 
 
-Software
+**Software**
 Arduino IDE
 Processing Application
+
+**Methodology**
+
+The primary goal of this project is to detect the position of an object on a synchronised axis using ultrasonic sensors. An ultrasonic sensor is used to send out high-frequency radio waves and record the time. The sensor then calculates the distance the object is from the sensor with the help of time. 
+Speed of sound = distance travelled / time
+There are several sensible reasons why you'd use sensors to find associate degree objects. Most GPS (global positioning systems) use sensors to trace objects on the bottom. the item is also automotive, a package, a ship confounded, etc. The ultrasonic sensing element uses 
 
