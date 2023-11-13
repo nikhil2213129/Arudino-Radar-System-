@@ -13,3 +13,20 @@ The system can be easily customized to suit different needs and requirements. Fo
 One of the key advantages of the Arduino Radar System is its low cost and accessibility. Arduino is an open-source electronics platform that is widely used by hobbyists and professionals alike, and the parts needed to build the system can be easily sourced online or at electronics stores. Additionally, the system can be easily modified and expanded using a variety of add-on modules and sensors.
 
 Overall, the Arduino Radar System is a fun and educational project that offers a unique way to learn about radar technology and its applications. It is an excellent choice for anyone looking to expand their knowledge of electronics and programming, or for those simply looking for a fun and challenging project to work on.**
+
+
+Components Required
+Hardware
+Arduino UNO  
+HC-SR04 Ultrasonic Sensor  
+TowerPro SG90 Servo Motor(2)  
+Mounting Bracket for Ultrasonic Sensor (optional)  
+Connecting Wires  
+Jumper Cables  
+5V Power Supply  
+USB Cable (for Arduino) 
+
+Software
+Arduino IDE
+Processing Application
+
