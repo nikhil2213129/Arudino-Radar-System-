@@ -1,4 +1,6 @@
 **# **Arudino-Radar-System**-
+
+
 A radar system uses an ultrasonic sensor to detect objects and their distance from the sensor. The signal received from the sensor would be shown on a PC screen.
 The Arduino Radar System is a project that utilizes an ultrasonic sensor to detect nearby objects and determine their distance from the sensor. The system is designed to be user-friendly and can be easily set up and operated by anyone interested in exploring the world of radar technology.
 
