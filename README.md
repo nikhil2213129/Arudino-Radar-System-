@@ -1,4 +1,4 @@
-Arudino-Radar-System
+Arudino-Radar-System (Academic Project 1 - First year cse)
 
 
 A radar system uses an ultrasonic sensor to detect objects and their distance from the sensor. The signal received from the sensor would be shown on a PC screen.
